@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38679'
     url: http://www.gutenberg.org/2009/agents/38679
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37150#SalakulettajaKertomus-Rajajoen-tienoilta
 gutenberg_issued: '2011-08-21'
 gutenberg_type: Text
 identifiers:
