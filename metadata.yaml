@@ -1,0 +1,27 @@
+_repo: SalakulettajaKertomus-Rajajoen-tienoilta_37150
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kanerva, Antero
+    alias: Korjonen, Antero
+    birthdate: 1863
+    deathdate: 1937
+    gutenberg_agent_id: '38679'
+    url: http://www.gutenberg.org/2009/agents/38679
+description: ''
+gutenberg_issued: '2011-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37150'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Smuggling -- Fiction'
+title: 'Salakulettaja: Kertomus Rajajoen tienoilta'
+url: http://www.gutenberg.org/ebooks/37150
